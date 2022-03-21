@@ -6,6 +6,6 @@ Git on hajautettu versionhallintajärjestelmä, joka on suunniteltu toimimaan te
 
 ### Github  
 
-![image](https://github.com/JKeronen/github_readme/blob/3a01d3ef50538d68b90915822eba225f9c944dca/kuvat/Github-logo.jpg)
+![image](https://github.com/JKeronen/github_readme/blob/3a01d3ef50538d68b90915822eba225f9c944dca/kuvat/Github_logo.jpg)
 
 Github on Git- versionhallintaan perustuva palvelu. Githubiin voidaan tallentaa ohjelmistoja joko julkisesti tai yksityisesti. Kun ohjelmiston jakaa jukisesti, sen näkee kaikki Github- käyttäjät ja ottaa omaan käyttöön (Fork). Tiedostot ovat avointa lähdekoodia ja sen kehittäjä voi ehdottaa alkuperäiselle kehittäjälle parannusehdotusta (Pull request).
