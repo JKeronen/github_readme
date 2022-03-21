@@ -1,6 +1,6 @@
 # Mikä on Git ja Github
 
-!(https://github.com/JKeronen/github_readme/blob/39180770a1b290fdee5c968642baf7bd5d67c28e/kuvat/Git-logo.jpg)
+![image](https://github.com/JKeronen/github_readme/blob/39180770a1b290fdee5c968642baf7bd5d67c28e/kuvat/Git-logo.jpg)
 <html>
 <img src "https://github.com/JKeronen/github_readme/blob/39180770a1b290fdee5c968642baf7bd5d67c28e/kuvat/Git-logo.jpg">
 </html>
