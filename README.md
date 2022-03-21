@@ -1,4 +1,4 @@
 # Mikä on Git ja Github
 
-!(github_readme/blob/main/kuvat/512px-Git-logo.svg.png)
+!(github_readme/blob/main/kuvat/Git-logo.jpg)
 
